@@ -1,0 +1,7 @@
+1) Quitar espacios
+2) Todo minuscula desp de la primer linea
+3) Sexo inicial en minuscula
+4) (hiper tension - hipertenso) -> hipertension
+5) Peso sin kg
+6)
+ 
