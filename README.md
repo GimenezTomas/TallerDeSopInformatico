@@ -7,3 +7,4 @@
 - [Ejercicio 30-9](https://github.com/GimenezTomas/TallerDeSopInformatico/tree/main/scientificProject/notebooks/ejercicio%2030-9)
 - [Ejercicio 21-10](https://github.com/GimenezTomas/TallerDeSopInformatico/tree/main/scientificProject/notebooks/ejercicio%2021-10)
 - [Ejercicio 28-10](https://github.com/GimenezTomas/TallerDeSopInformatico/tree/main/scientificProject/notebooks/ejercicio%2028-10)
+- [Ejercicio 11-11](https://github.com/GimenezTomas/TallerDeSopInformatico/tree/main/scientificProject/notebooks/ejercicio%2011-11)
